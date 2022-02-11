@@ -36,7 +36,7 @@ By @An_unic_or_n47
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="@An_unic_or_n47")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://github.com/anunicn47/StringSessionBot")],
     ]
 
     # Help Message
