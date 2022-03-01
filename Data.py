@@ -15,7 +15,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-By @An_unic_or_n47
+By @iamhackerworld
     """
 
     # Home Button
@@ -31,12 +31,12 @@ By @An_unic_or_n47
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/CFC_BOTS/124")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://github.com/anunicn47/StringSessionBot")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/HwMusicUpdates")],
     ]
 
     # Help Message
@@ -55,13 +55,13 @@ By @An_unic_or_n47
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to generate pyrogram and telethon string session by @StarkBots
+A telegram bot to generate pyrogram and telethon string session by @HwStringSessionBot
 
-Source Code : [Click Here](https://github.com/anunicn47/StringSessionBot)
+Source Code : [Click Here](https://telegra.ph/file/612629c4da7ce876f2b09.jpg)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @An_unic_or_n47
+Developer : @iamhackerworld
     """
